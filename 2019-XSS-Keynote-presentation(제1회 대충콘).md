@@ -1,3 +1,8 @@
+# 2019-XSS-Keynote-presentation
+[제1회 대충콘](https://www.facebook.com/permalink.php?story_fbid=pfbid0oeS3tBeRuDqrUc8zu4J2sC63XJQhz6HwUxtb7gmBUssnpN3KnbAa2WxucHerb45al&id=589186041597093) 
+(대전·충청 정보보호 동아리 연합 세미나)에서 발표했던 내용, XSS 공격의 POC, 몇 가지 방어 기법과 우회 기법에 대해 다루었음.
+
+
 ![image](https://user-images.githubusercontent.com/48134435/172836277-4c76898a-2c09-4300-9f9e-4950c551fd7c.png)
 ![image](https://user-images.githubusercontent.com/48134435/172836298-44973c6f-8838-4cff-bd7f-686629246970.png)
 ![image](https://user-images.githubusercontent.com/48134435/172836307-cf92aa0e-ba7f-473e-98f4-96d02566456f.png)
