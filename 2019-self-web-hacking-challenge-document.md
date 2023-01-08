@@ -9,7 +9,6 @@
 ![image](https://user-images.githubusercontent.com/48134435/172830174-60b7b881-98cb-4429-9fe1-ad39f40c4e96.png)
 ![image](https://user-images.githubusercontent.com/48134435/172830183-136750e1-6f8c-4efe-bf3d-dd0493ecd614.png)
 ![image](https://user-images.githubusercontent.com/48134435/172830197-4cd11050-d6e6-4165-996e-5dd2cc255d20.png)
-![image](https://user-images.githubusercontent.com/48134435/172830211-e328968d-c540-49df-8e05-3671a3713caf.png)
 
 
 # 2. Pentesting
@@ -19,7 +18,6 @@
 ![image](https://user-images.githubusercontent.com/48134435/172830520-799887a2-4fe1-49a0-8a54-cd882288fc01.png)
 ![image](https://user-images.githubusercontent.com/48134435/172830538-fd626695-3a71-4b73-908c-7025969bb6a2.png)
 ![image](https://user-images.githubusercontent.com/48134435/172830549-b6249a6d-af06-47c5-9b73-be900a102bfb.png)
-![image](https://user-images.githubusercontent.com/48134435/172830562-ccd2fab5-0dc1-48cf-bb04-5604450bbcce.png)
 
 
 # 3. Django CSRF
@@ -43,7 +41,6 @@
 ![image](https://user-images.githubusercontent.com/48134435/172831109-7b0d4989-566d-4e19-8768-ec9f2deb6416.png)
 ![image](https://user-images.githubusercontent.com/48134435/172831151-ccbb04b2-648d-4caa-b127-c46603da6bfb.png)
 ![image](https://user-images.githubusercontent.com/48134435/172831254-aa0fe1e1-7ade-41e0-b807-6a011312c541.png)
-![image](https://user-images.githubusercontent.com/48134435/172831446-219397d5-38c5-48ff-865f-ceb5b33186bd.png)
 
 
 # 5. Time-Based Blind SQL injection
